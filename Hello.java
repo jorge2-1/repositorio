@@ -19,3 +19,6 @@ public class Hello {
         sc.close();
     }
 }
+public static void main(String[] args){
+    private Scanner sc;
+}
